@@ -1,0 +1,4 @@
+rootProject.name = "Moodfit"
+include ':app'
+include ':sample'
+include ':library'

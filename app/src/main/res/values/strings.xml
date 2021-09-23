@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Happy 😄</string>
+    <string name="gratitude_hint">I\'m grateful for...</string>
+    <string name="mood_description">I\'m currently feeling...</string>
+    <string name="mood_notes">Notes...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="moods_array">
+        <item>Happy</item>
+        <item>Relaxed</item>
+        <item>Sad</item>
+        <item>Energetic</item>
+        <item>Courageous</item>
+        <item>Enlightened</item>
+        <item>Optimistic</item>
+        <item>Surprised</item>
+        <item>Contemplative</item>
+        <item>Frustrated</item>
+        <item>Angry</item>
+        <item>Anxious</item>
+        <item>Scared</item>
+        <item>Conflicted</item>
+        <item>Worried</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
